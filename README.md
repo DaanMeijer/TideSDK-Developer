@@ -1,37 +1,36 @@
-TideSDK Developer
-=======
+# TideSDK Developer
 
-This is Official TideSDK Developer developed and maintained by community effort of TideSDK Team
+TideSDK is the new standard for creating beautiful and unique desktop apps using your web development skills. Create multi-platform desktop apps with HTML5, CSS3 and JavaScript. TideSDK Developer is a simple utility app for creating, running and bundling TideSDK apps.
 
-TideSDK Developer Supports the latest releases of TideSDK.
+Before building or running TideSDK Developer you must install TideSDK. Download of TideSDK are available at the following location:
 
-Download
--------
+http://tidesdk.org
+[http://www.tidesdk.org](http://www.tidesdk.org)
 
+## TideSDK Developer Downloads
+
+To use TideSDK Developer, download it from the following location:
+
+[http://www.tidesdk.org](http://www.tidesdk.org)
+
+Click on the SDK download button. A modal will appear. Select the download for TideSDK Developer app appropriate for your platform.
+
+## Building TideSDK Developer
+
+To build and run TideSDK Developer:
+
+```
 	git clone https://github.com/TideSDK/TideSDK-Developer.git
-
-Build and run
------
-
 	python "path-to-TideSDK-sdk/tidebuilder.py" TideSDK-Developer -r -i 'dist,package'
+```
 
-Now it should be running! Feel free to import the project into itself, and hack on it. :)
+## Improving TideSDK Developer
 
-TideSDK?
------
-More information on TideSDK can be found at [http://www.tidesdk.org](http://www.tidesdk.org)
+If you have the TideSDK Developer app available on your platform, fork the TideSDK repository at:
 
-Legal
------
+https://github.com/TideSDK/TideSDK-Developer
 
-This is a revived version of Appcelerator's [Titanium Developer](https://github.com/appcelerator/titanium_developer), continued from Adriano's [TiDev Community](https://github.com/adrianopaladini/titanium_developer) fork from 2011.
+Import the project and issue a pull request to have your changes committed by the TideSDK Team.
 
-This is the source code for the TideSDK Developer desktop application that is a visual environment for TideSDK.
-
+# Legal
 TideSDK Developer is licensed under the Apache 2.0 license. See LICENSE for more details.
-
-Copyright(c) 2011-2012 by TideSDK Developer Contributors
-
-Copyright(c) 2008-2011 by Appcelerator, Inc. All Rights Reserved.
-
-Appcelerator is a registered trademark of Appcelerator, Inc. Appcelerator. Titanium is a trademark of Appcelerator, Inc.
