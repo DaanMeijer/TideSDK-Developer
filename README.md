@@ -15,18 +15,18 @@ To use TideSDK Developer, download it from the following location:
 
 Click on the SDK download button. A modal will appear. Select the download for TideSDK Developer app appropriate for your platform.
 
-## Building
+## Build
 
 To build and run TideSDK Developer:
 
 ```
-	git clone https://github.com/TideSDK/TideSDK-Developer.git
-	python "path-to-TideSDK-sdk/tidebuilder.py" TideSDK-Developer -r -i 'dist,package'
+git clone https://github.com/TideSDK/TideSDK-Developer.git
+python "path-to-TideSDK-sdk/tidebuilder.py" TideSDK-Developer -r -i 'dist,package'
 ```
 
-## Improving the Develop App
+## Improve
 
-If you already have the TideSDK Developer app installed on your platform, you can hack on it by forking the repository at:
+If you already have the TideSDK Developer app installed on your platform, you can improve it by forking the repository at:
 
 https://github.com/TideSDK/TideSDK-Developer
 
